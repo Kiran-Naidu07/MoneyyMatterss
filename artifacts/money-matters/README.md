@@ -30,6 +30,8 @@ http://localhost:21091
 npm run build
 ```
 
+The production build is written to the repository-root `dist` directory, which matches Vercel's default output directory.
+
 ## Preview
 
 ```bash
